@@ -4,4 +4,7 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+#   Character.create(name: 'Luke', movie: movies.first)`
+
+Task.create(title: 'Finir exercice 1 Rails', details: "comprendre difference entre text et string")
+Task.create(title: 'exercice num2 Rails', details: "inconnu")
